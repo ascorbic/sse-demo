@@ -1,0 +1,6 @@
+[build]
+publish = "."
+
+[[edge_functions]]
+function = "sse"
+path = "/sse"
